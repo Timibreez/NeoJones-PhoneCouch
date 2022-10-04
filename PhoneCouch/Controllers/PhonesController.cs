@@ -8,7 +8,11 @@ namespace PhoneCouch.Controllers
         public IActionResult Random()
         {
             var phone = new Phone() { Name = "X" };
-            return View(phone);
+            //return View(phone);
+            //return Content("Hello world!");
+            //return NotFound();
+            //return new EmptyResult();
+            return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name" });
         }
     }
 }

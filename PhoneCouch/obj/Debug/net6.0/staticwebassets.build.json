@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+vlUWIoOszg4C3ZcbiI7LfcZaQEHvmOmZ8UcVTdTZGw=",
+  "Hash": "s5EvUg9JnBYsShHrexwncdu2DUv68LehPUZ+xVpnsdY=",
   "Source": "PhoneCouch",
   "BasePath": "_content/PhoneCouch",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\timib\\Documents\\Work\\DotNet\\PhoneCouch\\PhoneCouch\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhoneCouch.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\timib\\Documents\\Work\\DotNet\\PhoneCouch\\PhoneCouch\\wwwroot\\css\\bootstrap-lumen.css",
+      "SourceId": "PhoneCouch",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\timib\\Documents\\Work\\DotNet\\PhoneCouch\\PhoneCouch\\wwwroot\\",
+      "BasePath": "_content/PhoneCouch",
+      "RelativePath": "css/bootstrap-lumen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap-lumen.css"
     },
     {
       "Identity": "C:\\Users\\timib\\Documents\\Work\\DotNet\\PhoneCouch\\PhoneCouch\\wwwroot\\css\\site.css",
